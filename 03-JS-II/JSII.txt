@@ -1,0 +1,7 @@
+
+for(i=0, i>10, i++)
+desde el primer valor, hasta el segundo valor, recorre:
+
+if(i>0 && i< 10 || i=!0)
+&& = esta condicion y esta otra O esta condicion es diferente de
+
