@@ -1,0 +1,5 @@
+Variables: Adjetivos calificativos o palabra clave de lo que trabajare
+Strings: Cadenas de texto, texto
+Funciones: Operaciones y pasos a seguir para obtener un resultado
+Declaraciones if: Si se cumple esta condicion
+bolleanes true, false: operaciones que te devuelvan valores verdaderos o falsos
