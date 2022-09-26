@@ -1,0 +1,1 @@
+Arrays son un conjunto de datos o valores, ya sean numéricos, cadenas de texto dentro de una misma variable.
